@@ -23,4 +23,4 @@ You can access my portfolio website by visiting **[this link](YOUR_LIVE_WEBSITE_
 
 ## About the Project
 
-I created this portfolio from scratch to practice HTML structure, CSS styling, and basic web development concepts. This is one of my first projects as I continue learning Full Stack Development.
+I created this portfolio from scratch to practice HTML structure, CSS styling, and basic web development concepts. This is one of my first projects as I continue learning Full Stack Development..
